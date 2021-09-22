@@ -1,3 +1,5 @@
+//create objects that model a car, an animal, and a customer
+
 var car = {
   make: 'Toyota',
   model: 'Highlander',
