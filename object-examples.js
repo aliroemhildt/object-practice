@@ -16,5 +16,5 @@ var customer = {
   name: 'Ali',
   order: = ['cheeseburger','french fries'],
   orderNum: 33,
-  orderTotal: 15,
+  orderTotal: 15
 };
